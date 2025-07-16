@@ -1,0 +1,15 @@
+# MongoDB driver
+pymongo==4.7.2
+
+# Fuzzy string matching for deduplication
+rapidfuzz==3.9.3
+
+# Date parsing utilities
+python-dateutil==2.9.0
+
+# Optional: For better performance with large datasets
+# dnspython==2.6.1  # For MongoDB SRV connection strings
+
+# Optional: For development and debugging
+# python-dotenv==1.0.1  # Load environment variables from .env file
+# colorlog==6.8.2  # Colored logging output
